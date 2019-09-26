@@ -1,0 +1,7 @@
+D:\DATA\GitHub\WebBanHang\DAO\bin\Debug\DAO.dll
+D:\DATA\GitHub\WebBanHang\DAO\bin\Debug\DAO.pdb
+D:\DATA\GitHub\WebBanHang\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+D:\DATA\GitHub\WebBanHang\DAO\obj\Debug\DAO.dll
+D:\DATA\GitHub\WebBanHang\DAO\obj\Debug\DAO.pdb
+D:\DATA\GitHub\WebBanHang\DAO\bin\Debug\TAIKHOAN.dll
+D:\DATA\GitHub\WebBanHang\DAO\bin\Debug\TAIKHOAN.pdb

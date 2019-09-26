@@ -1,0 +1,12 @@
+D:\DATA\GitHub\WebBanHang\GUI\bin\GUI.dll.config
+D:\DATA\GitHub\WebBanHang\GUI\bin\GUI.dll
+D:\DATA\GitHub\WebBanHang\GUI\bin\GUI.pdb
+D:\DATA\GitHub\WebBanHang\GUI\bin\BAL.dll
+D:\DATA\GitHub\WebBanHang\GUI\bin\DAO.dll
+D:\DATA\GitHub\WebBanHang\GUI\bin\BAL.pdb
+D:\DATA\GitHub\WebBanHang\GUI\bin\DAO.pdb
+D:\DATA\GitHub\WebBanHang\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+D:\DATA\GitHub\WebBanHang\GUI\obj\Debug\GUI.dll
+D:\DATA\GitHub\WebBanHang\GUI\obj\Debug\GUI.pdb
+D:\DATA\GitHub\WebBanHang\GUI\bin\TAIKHOAN.dll
+D:\DATA\GitHub\WebBanHang\GUI\bin\TAIKHOAN.pdb

@@ -1,0 +1,9 @@
+D:\DATA\GitHub\WebBanHang\BAL\bin\Debug\BAL.dll
+D:\DATA\GitHub\WebBanHang\BAL\bin\Debug\BAL.pdb
+D:\DATA\GitHub\WebBanHang\BAL\bin\Debug\DAO.dll
+D:\DATA\GitHub\WebBanHang\BAL\bin\Debug\DAO.pdb
+D:\DATA\GitHub\WebBanHang\BAL\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+D:\DATA\GitHub\WebBanHang\BAL\obj\Debug\BAL.dll
+D:\DATA\GitHub\WebBanHang\BAL\obj\Debug\BAL.pdb
+D:\DATA\GitHub\WebBanHang\BAL\bin\Debug\TAIKHOAN.dll
+D:\DATA\GitHub\WebBanHang\BAL\bin\Debug\TAIKHOAN.pdb

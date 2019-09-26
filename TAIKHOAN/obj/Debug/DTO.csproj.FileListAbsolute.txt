@@ -1,0 +1,5 @@
+D:\DATA\GitHub\WebBanHang\TAIKHOAN\bin\Debug\TAIKHOAN.dll
+D:\DATA\GitHub\WebBanHang\TAIKHOAN\bin\Debug\TAIKHOAN.pdb
+D:\DATA\GitHub\WebBanHang\TAIKHOAN\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+D:\DATA\GitHub\WebBanHang\TAIKHOAN\obj\Debug\TAIKHOAN.dll
+D:\DATA\GitHub\WebBanHang\TAIKHOAN\obj\Debug\TAIKHOAN.pdb
